@@ -1,4 +1,4 @@
-# sp21-cs242-assignment3
+# Github User Repo Info App
 
 This project create four Github-related screens for users to navigate: 
 
@@ -24,10 +24,4 @@ This project create four Github-related screens for users to navigate:
   - UsernameR
 
 The project was developed in React Native. 
-
-### Environment Setup and Configurations: 
-```
-git clone https://gitlab.engr.illinois.edu/yiyins2/sp21-cs242-assignment2.git 
-cd sp21-cs242-assignment2
-```
 To run the app, run `expo start`. 
